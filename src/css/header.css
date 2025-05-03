@@ -1,9 +1,14 @@
+h1 {
+  text-align: center;
+}
+
 .header {
   padding: 20px 0;
 }
+
 .nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 .nav-logo {
   display: inline-flex;
